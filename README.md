@@ -3,7 +3,7 @@
 
 ## À propos de moi
 
-Je suis [votre nom], un passionné de [votre domaine] basé à [votre emplacement]. J'ai un intérêt particulier pour [vos centres d'intérêt], et je suis constamment à la recherche de nouvelles opportunités d'apprentissage et de collaboration.
+Je suis [erick mpene], un passionné de [votre domaine] basé à [votre emplacement]. J'ai un intérêt particulier pour [vos centres d'intérêt], et je suis constamment à la recherche de nouvelles opportunités d'apprentissage et de collaboration.
 
 ## Mes projets
 
