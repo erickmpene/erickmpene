@@ -16,7 +16,14 @@ I am a DevOps engineer passionate about automation, infrastructure management, a
 - **Operating Systems**: Linux (Ubuntu, CentOS)
 - **Programming Languages**: Python, Bash
   
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erickmpene&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Erick Mpene's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmpene&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+## Top repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickmpene&repo=Ansible&theme=github_dark)](https://github.com/erickmpene/ansible)
 
 ## Projects
 
