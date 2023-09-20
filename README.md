@@ -20,36 +20,14 @@ I am a DevOps engineer passionate about automation, infrastructure management, a
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erickmpene&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Erick Mpene's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmpene&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
 ## Top repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickmpene&repo=Ansible&theme=github_dark)](https://github.com/erickmpene/ansible)
-
-## Projects
-
-Here are some of my GitHub projects that reflect my skills and work:
-
-### [Kubernetes]([link to project 1](https://github.com/erickmpene/kubernetes))
-
-[Brief description of project 1]
-
-### [Terraform]([link to project 2](https://github.com/erickmpene/terraform))
-
-[Brief description of project 2]
-
-### [Ansible]([link to project 3](https://github.com/erickmpene/ansible))
-[Brief description of project 3]
-
-Feel free to explore my repositories to see more exciting projects!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickmpene&repo=Terraform&theme=github_dark)](https://github.com/erickmpene/terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erickmpene&repo=Kubernetes&theme=github_dark)](https://github.com/erickmpene/kubernetes.git)
 
 ## Contact Me
 
 I'm open to collaboration and discussion on exciting projects. You can reach me via email at [your email address] or through [my LinkedIn profile](link to your LinkedIn profile).
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickmpene&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erickmpene&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
 
 Thank you for visiting my GitHub profile!
