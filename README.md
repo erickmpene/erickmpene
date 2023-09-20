@@ -31,3 +31,5 @@ I am a DevOps engineer passionate about automation, infrastructure management, a
 I'm open to collaboration and discussion on exciting projects. You can reach me via [my LinkedIn profile](https://www.linkedin.com/in/erick-m-9682b9152/).
 
 Thank you for visiting my GitHub profile!
+
+![image](https://github.com/erickmpene/erickmpene/assets/138575584/1699ae31-4bb8-43d6-a507-81b0c269d149)
