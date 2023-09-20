@@ -3,6 +3,8 @@
 ## About Me
 
 I'm Erick MPENE, a passionate [your field] enthusiast based in [your location]. I have a particular interest in [your interests], and I'm constantly seeking new learning opportunities and collaborations.
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 ## My Projects
 
