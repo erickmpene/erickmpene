@@ -28,6 +28,6 @@ I am a DevOps engineer passionate about automation, infrastructure management, a
 
 ## Contact Me
 
-I'm open to collaboration and discussion on exciting projects. You can reach me via email at [your email address] or through [my LinkedIn profile](link to your LinkedIn profile).
+I'm open to collaboration and discussion on exciting projects. You can reach me via [my LinkedIn profile](https://www.linkedin.com/in/erick-m-9682b9152/).
 
 Thank you for visiting my GitHub profile!
