@@ -11,9 +11,9 @@ I am a DevOps engineer passionate about automation, infrastructure management, a
 
 - **Automation**: Ansible
 - **Container Orchestration**: Docker, Kubernetes
-- **CI/CD Tools**: Jenkins, GitLab CI/CD
+- **CI/CD Tools**: Jenkins, GitLab CI/CD, ArgoCD
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
-- **Operating Systems**: Linux (Ubuntu, CentOS)
+- **Operating Systems**: Linux (Ubuntu, CentOS, Debian)
 - **Programming Languages**: Python, Bash
   
 
